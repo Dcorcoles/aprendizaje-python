@@ -10,12 +10,12 @@ print(f"Subscribete a {youtuber}")
 '''
 
 
-adj = input("Adjetivo: ")
-verb1 = input("Verbo: ")
-verb2 = input("Verbo: ")
-famous_person = input("Peronaje famoso: ")
+adj = input("Inserta un Adjetivo: ")
+verb1 = input("Inserta un Verbo: ")
+verb2 = input("Inserta otro Verbo: ")
+famous_person = input("Inserta el nombre de un Peronaje famoso: ")
 
-madlib = f"La programacion en Python es tan {adj}! Me emocionamucho todo el tiempo porque\
-me encanta {verb1}.Siempre mantente hidratado y {verb2} igual que {famous_person}!"
+madlib = f"La programacion en Python es tan {adj}! Me emociona mucho todo el tiempo porque\
+ me encanta {verb1}.Siempre mantente hidratado y {verb2} igual que {famous_person}!"
 
 print(madlib)
